@@ -1,6 +1,6 @@
 # WebAssembly with Zig
 
-## Build
+### Build
 
 ```bash
 # Build the project
